@@ -2,7 +2,8 @@
       I'm a Mobile engineer and Tech Consultant. Currently working as a Mobile app developer at Yarsa Labs.
 
 
-- 🔭 I’m currently working on findall.com.np
+- 🔭 I’m currently working on Yarsa Labs pvt ltd.
+- 🌱 Found my blogs related with flutter , dart and tech related on https://blog.yarsalabs.com. 
 - 🌱 I’m currently learning python 
 - 👯  I’m looking to collaborate on Projects for Nepali Market
 - 💬Ask me about Technology, Tech career in Nepal, Flutter and Dart
