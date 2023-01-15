@@ -1,5 +1,5 @@
 ### Namaste,Ambika Dulal Here from Nepal!  👋
-      I'm a Mobile engineer and Tech Consultant. Currently working as a Mobile app developer at Yarsa Labs.
+      I'm a Mobile engineer and Tech Consultant. Currently working as a Mobile app developer.
 
 
 - 🔭 I’m currently working on Yarsa Labs pvt ltd.
