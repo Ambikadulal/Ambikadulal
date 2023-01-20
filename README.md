@@ -2,7 +2,7 @@
       I'm a Mobile engineer and Tech Consultant. Currently working as a Mobile app developer.
 
 
-- 🔭 I’m currently working on Yarsa Labs pvt ltd.
+- 🔭 I’m currently working on Own project, will launch soon.
 - 🌱 Found my blogs related with flutter , dart and tech related on https://blog.yarsalabs.com. 
 - 🌱 I’m currently learning python 
 - 👯  I’m looking to collaborate on Projects for Nepali Market
