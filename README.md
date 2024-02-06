@@ -1,6 +1,5 @@
-![supabase](https://github.com/Ambikadulal/Ambikadulal/assets/55906788/415bc0f7-c675-4819-a4cf-3a8081377dd6)### Namaste, Ambika Dulal Here from Nepal!  👋
-      I'm a Mobile engineer and Tech Consultant. I am currently working as a Mobile app developer.
-
+### Namaste, Ambika Dulal Here from Nepal!  👋
+     I'm a Mobile engineer and Tech Consultant. I am currently working as a Mobile app developer.
 - 🔭 I’m working on my project ➡️ https://www.appoverride.com/playstore.
 - 🌱 Find my blogs related to flutter, dart, and tech-related at https://www.appoverride.com. 
 - 🌱 I’m currently learning Python 
