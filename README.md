@@ -1,19 +1,20 @@
 ### Namaste,Ambika Dulal Here from Nepal!  👋
       I'm a Mobile engineer and Tech Consultant. I am currently working as a Mobile app developer.
 
-- 🔭 I’m working on my own project ➡️ https://www.appoverride.com/playstore.
+- 🔭 I’m working on my project ➡️ https://www.appoverride.com/playstore.
 - 🌱 Find my blogs related to flutter, dart, and tech-related at https://www.appoverride.com. 
 - 🌱 I’m currently learning Python 
 - 👯  I’m looking to collaborate on Projects for Nepali Market
-- 💬Ask me about Technology, Tech career in Nepal, Flutter, and Dart
+- 💬Ask me about Technology, Tech career in Nepal, Flutter, Dart, Firebase, and tech blog 
 
-<!--
-**Ambikadulal/Ambikadulal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 Socials:
+
+LinkedIn Twitter 
+
+💻 Tech Stack:
+![cards](https://github.com/Ambikadulal/Ambikadulal/assets/55906788/edb4ca87-f6f2-43f8-945a-d538c1cb1228)
+
+Dart Flutter Firebase Netlify MySQL SQLite Supabase
 
 
-Here are some ideas to get you started:
 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
