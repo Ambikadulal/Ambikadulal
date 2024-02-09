@@ -5,7 +5,7 @@
 - 🌱 Find my blogs related to flutter, dart, and tech-related at https://www.appoverride.com. 
 - 🌱 I’m currently learning Python 
 - 👯  I’m looking to collaborate on Projects for Nepali Market
-- 💬Ask me about Technology, Tech career in Nepal, Flutter, Dart, Firebase, and tech blog 
+- 💬Ask me about Technology, Tech careers in Nepal, Flutter, Dart, Firebase, and tech blogs. 
 
 💻 **Tech Stack:**
 
