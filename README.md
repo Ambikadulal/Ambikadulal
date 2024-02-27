@@ -9,7 +9,8 @@
 
 ### 💻 **Tech Stack:**
 
-![firebase](https://github.com/Ambikadulal/Ambikadulal/assets/55906788/0de5297e-8b03-470e-aea0-97e7128e1cba) ![dart](https://github.com/Ambikadulal/Ambikadulal/assets/55906788/f2de6594-99ae-458e-bc6c-4d2a7d2b49dc)  ![flutter](https://github.com/Ambikadulal/Ambikadulal/assets/55906788/8c96d917-048d-4615-a55f-fdaea46c248e) ![supabase](https://github.com/Ambikadulal/Ambikadulal/assets/55906788/eb623d05-8b41-41bb-a43d-d4f981e1e904) ![sqlite](https://github.com/Ambikadulal/Ambikadulal/assets/55906788/221946d8-b335-45e9-9b41-b36b688823ed) ![sql](https://github.com/Ambikadulal/Ambikadulal/assets/55906788/571ce9f7-2e42-4ea3-9315-2b257f65f71e) ![nextjs](https://github.com/Ambikadulal/Ambikadulal/assets/55906788/0a877d94-de32-4fce-981b-ce5748d12456)
+![firebase](https://github.com/Ambikadulal/Ambikadulal/assets/55906788/0de5297e-8b03-470e-aea0-97e7128e1cba) ![dart](https://github.com/Ambikadulal/Ambikadulal/assets/55906788/f2de6594-99ae-458e-bc6c-4d2a7d2b49dc)  ![flutter](https://github.com/Ambikadulal/Ambikadulal/assets/55906788/8c96d917-048d-4615-a55f-fdaea46c248e) ![supabase](https://github.com/Ambikadulal/Ambikadulal/assets/55906788/eb623d05-8b41-41bb-a43d-d4f981e1e904) ![sqlite](https://github.com/Ambikadulal/Ambikadulal/assets/55906788/221946d8-b335-45e9-9b41-b36b688823ed) ![sql](https://github.com/Ambikadulal/Ambikadulal/assets/55906788/571ce9f7-2e42-4ea3-9315-2b257f65f71e) ![nextjs (1)](https://github.com/Ambikadulal/Ambikadulal/assets/55906788/553694f2-3c9d-459c-a3ef-b12c9ca26b20)
+
 
 
 
