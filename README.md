@@ -2,7 +2,7 @@
 ### Namaste, Ambika Dulal Here from Nepal!  👋
      I'm a Mobile engineer and Tech Consultant. I am currently working as a Mobile app developer.
 - 🔭 I’m working on my project ➡️ https://www.appoverride.com/playstore.
-- 🌱 Find my blogs related to flutter, dart, and tech-related at https://www.appoverride.com. 
+- 🌱 Find my blogs related to flutter, dart, and tech-related at https://www.appoverride.com and https://medium.com/@ambikadulal16/
 - 🌱 I’m currently learning Python 
 - 👯 I’m looking to collaborate on Projects for Nepali Market
 - 💬 Ask me about Technology, Tech careers in Nepal, Flutter, Dart, Firebase, and tech blogs. 
