@@ -1,4 +1,4 @@
-### Namaste Everyone, Ambika Dulal Here from Nepal! Welcome to my activity hub.
+### Namaste, everyone. Ambika Dulal here from Nepal! Welcome to my activity hub.
      I'm a Mobile engineer and Tech Consultant. I am currently working as a Lead Mobile App Developer.
 - 🔭 I’m working on my project ➡️ https://www.appoverride.com/playstore && https://www.appoverride.com/sitemap/.
 - 🌱 Find my blogs related to Flutter, Dart, and tech-related at Blog posts https://www.appoverride.com/blog/ and https://medium.com/@ambikadulal16/
