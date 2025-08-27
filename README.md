@@ -15,4 +15,4 @@ I'm a Mobile engineer and Tech Consultant. I am currently working as a Lead Mobi
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ambikadulal)](https://github.com/Ambikadulal/github-readme-stats)
 
 ### **📊 Meetup Official:**
-https://www.meetup.com/flutter-kathmandu/members/?op=leaders
+https://www.meetup.com/flutter-kathmandu/members/?op=leader
