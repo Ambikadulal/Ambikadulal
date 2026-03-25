@@ -14,6 +14,3 @@ I'm a Mobile engineer and Tech Consultant. I am currently working as a Lead Mobi
 
 ### **📊 Meetup Official:**
 https://www.meetup.com/flutter-kathmandu/members/?op=leader
-
-
-
