@@ -1,16 +1,83 @@
-### Namaste, everyone. Ambika Dulal here from Nepal! Welcome to my activity hub.
-I'm a Mobile engineer and Tech Consultant. I am currently working as a Lead Mobile App Developer.
-- 🔭 I’m working on my project ➡️ https://www.appoverride.com/playstore && https://www.appoverride.com/sitemap/.
-- 🌱 Find my blogs related to Flutter, Dart, and tech-related at Blog posts https://www.appoverride.com/blog/ and https://medium.com/@ambikadulal16/
-- 🌱 I’m currently learning Next.js and React. 
-- 👯 I’m always open to collaborating on Projects for the Nepali Market and the Global market.
-- 💬 Ask me about Technology, Tech careers in Nepal, Flutter, Dart, Firebase, and tech blogs. 
+## 🚀 Ambika Dulal  
+**Lead Mobile Engineer | Tech Consultant | Flutter Specialist | Nepal 🇳🇵**
 
-### 💻 **Tech Stack:**
-![firebase](https://github.com/Ambikadulal/Ambikadulal/assets/55906788/0de5297e-8b03-470e-aea0-97e7128e1cba) ![dart](https://github.com/Ambikadulal/Ambikadulal/assets/55906788/f2de6594-99ae-458e-bc6c-4d2a7d2b49dc)  ![flutter](https://github.com/Ambikadulal/Ambikadulal/assets/55906788/8c96d917-048d-4615-a55f-fdaea46c248e) ![supabase](https://github.com/Ambikadulal/Ambikadulal/assets/55906788/eb623d05-8b41-41bb-a43d-d4f981e1e904) ![sqlite](https://github.com/Ambikadulal/Ambikadulal/assets/55906788/221946d8-b335-45e9-9b41-b36b688823ed) ![sql](https://github.com/Ambikadulal/Ambikadulal/assets/55906788/571ce9f7-2e42-4ea3-9315-2b257f65f71e)
+> Building scalable mobile solutions, mentoring developers, and contributing to the global tech ecosystem.
 
-### **📊 GitHub Stats:**
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ambikadulal)](https://github.com/Ambikadulal/github-readme-stats)
+---
 
-### **📊 Meetup Official:**
-https://www.meetup.com/flutter-kathmandu/members/?op=leader
+## 👨‍💻 About Me
+
+- 💼 Lead Mobile App Developer with strong expertise in **Flutter & cross-platform architecture**
+- 🌍 Working on products impacting both **Nepali and global markets**
+- 🧠 Passionate about **clean architecture, scalable systems, and performance optimization**
+- ✍️ Technical writer sharing insights on mobile development and modern tech
+- 🤝 Open to **consulting, collaborations, and innovative product development**
+
+---
+
+## 🔥 Current Focus
+
+- 🚀 Scaling products at **AppOverride**
+- 🌱 Exploring **Next.js**, **React**, and modern full-stack patterns
+- 🧩 Designing robust systems with **Firebase**, **Supabase**, and backend integrations
+- 📈 Mentoring and guiding developers in the Nepali tech community
+
+---
+
+## 🌐 Projects & Platforms
+
+- 🔗 **Main Platform:** https://www.appoverride.com/playstore  
+- 🗺️ **Project Sitemap:** https://www.appoverride.com/sitemap/  
+- ✍️ **Tech Blog:** https://www.appoverride.com/blog/  
+- 📚 **Medium Articles:** https://medium.com/@ambikadulal16  
+
+---
+
+## 🧠 Expertise
+
+- 📱 Mobile App Development (Flutter, Dart)
+- 🔥 Backend-as-a-Service (Firebase, Supabase)
+- 🏗️ Scalable Architecture & State Management
+- 💳 API Integration & Performance Optimization
+- 🗄️ Local Databases (SQLite, SQL)
+- 🧪 Debugging, Testing & Production Readiness
+
+---
+
+## 💻 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,sqlite,react,nextjs,git,github" />
+</p>
+
+---
+
+## 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ambikadulal&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ambikadulal&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🌍 Community & Leadership
+
+- 🎤 Organizer / Leader at **Flutter Kathmandu**
+- 🤝 Active contributor to the **Nepali developer ecosystem**
+- 📢 Engaged in knowledge sharing, meetups, and mentoring
+
+👉 https://www.meetup.com/flutter-kathmandu/members/?op=leader  
+
+---
+
+## 💬 Let’s Connect
+
+- 💡 Ask me about: **Flutter, Mobile Architecture, Firebase, Tech Career in Nepal**
+- 🤝 Open for: **Consulting | Collaboration | Startups | Tech Talks**
+
+---
+
+## ⚡ Personal Philosophy
+
+> *“Build solutions that scale, write code that lasts, and share knowledge that empowers.”*
