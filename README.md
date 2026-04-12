@@ -56,7 +56,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ambikadulal&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambikadulal&layout=compact&theme=tokyonight" />
 </p>
 
 ---
