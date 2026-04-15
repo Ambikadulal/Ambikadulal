@@ -3,8 +3,6 @@
 
 > Building scalable mobile solutions, mentoring developers, and contributing to the global tech ecosystem.
 
----
-
 ## 👨‍💻 About Me
 
 - 💼 Lead Mobile App Developer with strong expertise in **Flutter & cross-platform architecture**
@@ -13,7 +11,6 @@
 - ✍️ Technical writer sharing insights on mobile development and modern tech
 - 🤝 Open to **consulting, collaborations, and innovative product development**
 
----
 
 ## 🔥 Current Focus
 
@@ -22,7 +19,6 @@
 - 🧩 Designing robust systems with **Firebase**, **Supabase**, and backend integrations
 - 📈 Mentoring and guiding developers in the Nepali tech community
 
----
 
 ## 🌐 Projects & Platforms
 
@@ -31,7 +27,6 @@
 - ✍️ **Tech Blog:** https://www.appoverride.com/blog/  
 - 📚 **Medium Articles:** https://medium.com/@ambikadulal16  
 
----
 
 ## 🧠 Expertise
 
@@ -42,7 +37,6 @@
 - 🗄️ Local Databases (SQLite, SQL)
 - 🧪 Debugging, Testing & Production Readiness
 
----
 
 ## 💻 Tech Stack
 
@@ -50,7 +44,6 @@
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,sqlite,react,nextjs,git,github" />
 </p>
 
----
 
 ## 🌍 Community & Leadership
 
@@ -59,8 +52,6 @@
 - 📢 Engaged in knowledge sharing, meetups, and mentoring
 
 👉 https://www.meetup.com/flutter-kathmandu/members/?op=leader  
-
----
 
 ## 💬 Let’s Connect
 
