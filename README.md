@@ -37,13 +37,11 @@
 - 🗄️ Local Databases (SQLite, SQL)
 - 🧪 Debugging, Testing & Production Readiness
 
-
 ## 💻 Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,sqlite,react,nextjs,git,github" />
 </p>
-
 
 ## 🌍 Community & Leadership
 
