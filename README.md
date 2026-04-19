@@ -11,7 +11,6 @@
 - ✍️ Technical writer sharing insights on mobile development and modern tech
 - 🤝 Open to **consulting, collaborations, and innovative product development**
 
-
 ## 🔥 Current Focus
 
 - 🚀 Scaling products at **AppOverride**
@@ -19,14 +18,12 @@
 - 🧩 Designing robust systems with **Firebase**, **Supabase**, and backend integrations
 - 📈 Mentoring and guiding developers in the Nepali tech community
 
-
 ## 🌐 Projects & Platforms
 
 - 🔗 **Main Platform:** https://www.appoverride.com/playstore  
 - 🗺️ **Project Sitemap:** https://www.appoverride.com/sitemap/  
 - ✍️ **Tech Blog:** https://www.appoverride.com/blog/  
 - 📚 **Medium Articles:** https://medium.com/@ambikadulal16  
-
 
 ## 🧠 Expertise
 
