@@ -1,4 +1,5 @@
 ## 🚀 Ambika Dulal  
+
 **Lead Mobile Engineer | Tech Consultant | Flutter Specialist | Nepal 🇳🇵**
 
 > Building scalable mobile solutions, mentoring developers, and contributing to the global tech ecosystem.
@@ -27,6 +28,7 @@
 
 ## 🧠 Expertise
 
+
 - 📱 Mobile App Development (Flutter, Dart)
 - 🔥 Backend-as-a-Service (Firebase, Supabase)
 - 🏗️ Scalable Architecture & State Management
@@ -52,6 +54,7 @@
 
 - 💡 Ask me about: **Flutter, Mobile Architecture, Firebase, Tech Career in Nepal**
 - 🤝 Open for: **Consulting | Collaboration | Startups | Tech Talks**
+
 
 ## ⚡ Personal Philosophy
 > *“Build solutions that scale, write code that lasts, and share knowledge that empowers.”*
