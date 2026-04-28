@@ -28,7 +28,6 @@
 
 ## 🧠 Expertise
 
-
 - 📱 Mobile App Development (Flutter, Dart)
 - 🔥 Backend-as-a-Service (Firebase, Supabase)
 - 🏗️ Scalable Architecture & State Management
@@ -58,3 +57,4 @@
 
 ## ⚡ Personal Philosophy
 > *“Build solutions that scale, write code that lasts, and share knowledge that empowers.”*
+
