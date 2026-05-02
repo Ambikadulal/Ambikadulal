@@ -54,9 +54,5 @@
 - 💡 Ask me about: **Flutter, Mobile Architecture, Firebase, Tech Career in Nepal**
 - 🤝 Open for: **Consulting | Collaboration | Startups | Tech Talks**
 
-
 ## ⚡ Personal Philosophy
 > *“Build solutions that scale, write code that lasts, and share knowledge that empowers.”*
-
-
-
