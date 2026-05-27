@@ -2,6 +2,7 @@
 
 **Lead Mobile Engineer | Tech Consultant | Flutter Specialist | Nepal 🇳🇵**
 
+
 > Building scalable mobile app solutions, mentoring developers, and contributing to the global tech ecosystem.
 
 ## 👨‍💻 About Me
@@ -45,7 +46,6 @@
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,sqlite,react,nextjs,git,github" />
 </p>
 
-
 ## 🌍 Community & Leadership
 
 - 🎤 Organizer / Leader at **Flutter Kathmandu**
@@ -61,3 +61,6 @@
 
 ## ⚡ Personal Philosophy
 > *“Build solutions that scale, write code that lasts, and share knowledge that empowers.”*
+
+
+
