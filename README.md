@@ -2,7 +2,6 @@
 
 **Lead Mobile Engineer | Tech Consultant | Flutter Specialist | Nepal 🇳🇵**
 
-
 > Building scalable mobile app solutions, mentoring developers, and contributing to the global tech ecosystem.
 
 ## 👨‍💻 About Me
@@ -20,7 +19,6 @@
 - 🌱 Exploring **Next.js**, **React**, and modern full-stack patterns
 - 🧩 Designing robust systems with **Firebase**, **Supabase**, and backend integrations
 - 📈 Mentoring and guiding developers in the Nepali tech community
-
 
 ## 🌐 Projects & Platforms
 
