@@ -12,7 +12,6 @@
 - ✍️ Technical writer sharing insights on mobile development and modern tech
 - 🤝 Open to **consulting, collaborations, and innovative product development**
 
-
 ## 🔥 Current Focus
 
 - 🚀 Scaling products at **AppOverride**
@@ -27,7 +26,6 @@
 - ✍️ **Tech Blog:** https://www.appoverride.com/blog/  
 - 📚 **Medium Articles:** https://medium.com/@ambikadulal16  
 
-
 ## 🧠 Expertise
 
 - 📱 Mobile App Development (Flutter, Dart)
@@ -36,7 +34,6 @@
 - 💳 API Integration & Performance Optimization
 - 🗄️ Local Databases (SQLite, SQL)
 - 🧪 Debugging, Testing & Production Readiness
-
 
 ## 💻 Tech Stack
 
