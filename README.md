@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-- 💼 Lead Mobile App Developer with strong expertise in **Flutter & cross-platform architecture**
+- 💼 Lead Mobile App Developer with strong expertise in **Flutter and cross-platform architecture**
 - 🌍 Working on products impacting both **Nepali and global markets**
 - 🧠 Passionate about **clean architecture, scalable systems, and performance optimization**
 - ✍️ Technical writer sharing insights on mobile development and modern tech
@@ -57,3 +57,7 @@
 
 ## ⚡ Personal Philosophy
 > *“Build solutions that scale, write code that lasts, and share knowledge that empowers.”*
+
+
+
+
