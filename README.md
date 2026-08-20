@@ -46,7 +46,7 @@
 
 - 🎤 Organizer / Leader at **Flutter Kathmandu**
 - 🤝 Active contributor to the **Nepali developer ecosystem**
-- 📢 Engaged in knowledge sharing, meetups, and mentoring
+- 📢 Engaged in knowledge sharing, meetups, workshop activity, and mentoring 
 
 👉 https://www.meetup.com/flutter-kathmandu/members/?op=leader  
 
@@ -57,7 +57,3 @@
 
 ## ⚡ Personal Philosophy
 > *“Build solutions that scale, write code that lasts, and share knowledge that empowers.”*
-
-
-
-
