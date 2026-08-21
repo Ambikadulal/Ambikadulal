@@ -3,7 +3,6 @@
 **Lead Mobile Engineer | Tech Consultant | Flutter Specialist | Nepal 🇳🇵**
 > Building scalable mobile app solutions, mentoring developers, and contributing to the global tech ecosystem.
 
-
 ## 👨‍💻 About Me
 
 - 💼 Lead Mobile App Developer with strong expertise in **Flutter and cross-platform architecture**
@@ -13,7 +12,6 @@
 - 🤝 Open to **consulting, collaborations, and innovative product development**
 
 ## 🔥 Current Focus
-
 - 🚀 Scaling products at **AppOverride**
 - 🌱 Exploring **Next.js**, **React**, and modern full-stack patterns
 - 🧩 Designing robust systems with **Firebase**, **Supabase**, and backend integrations
@@ -21,14 +19,12 @@
 - Master Flutter [https://masterflutter.appwriters.dev/]
 
 ## 🌐 Projects & Platforms
-
 - 🔗 **Main Platform:** https://www.appoverride.com/playstore  
 - 🗺️ **Project Sitemap:** https://www.appoverride.com/sitemap/  
 - ✍️ **Tech Blog:** https://www.appoverride.com/blog/  
 - 📚 **Medium Articles:** https://medium.com/@ambikadulal16  
 
 ## 🧠 Expertise
-
 - 📱 Mobile App Development (Flutter, Dart)
 - 🔥 Backend-as-a-Service (Firebase, Supabase)
 - 🏗️ Scalable Architecture & State Management
@@ -48,7 +44,7 @@
 - 🤝 Active contributor to the **Nepali developer ecosystem**
 - 📢 Engaged in knowledge sharing, meetups, workshop activity, and mentoring 
 
-👉 https://www.meetup.com/flutter-kathmandu/members/?op=leader  
+👉 https://www.meetup.com/flutter-kathmandu/members/?op=leader
 
 ## 💬 Let’s Connect
 
