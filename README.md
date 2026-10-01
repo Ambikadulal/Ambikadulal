@@ -25,9 +25,9 @@
 - 📲 Expert in **Android & iOS developer/publisher account setup**, app store compliance, and release management
 - 🌍 Building products for **Nepali and global markets**, currently scaling engineering at **AppOverride**
 - 🧠 Focused on **clean architecture**, **scalable systems**, and **performance optimization**
-- ✍️ Technical writer — sharing hands-on insights on mobile dev, on-device AI, and project management
+- ✍️ Technical writer — **sharing hands-on **insights on mobile dev, on-device AI, and project management
 - 🎤 Organizer/Leader at **Flutter Kathmandu**, mentoring the next generation of Nepali developers
-- 🤝 Open to **consulting, collaborations, technical talks, and hiring/team-building support**
+- 🤝 Open to **consulting work, collaborations, technical talks, and hiring/team-building support**
 
 ### 🔥 Currently
 
