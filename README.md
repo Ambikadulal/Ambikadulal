@@ -19,8 +19,8 @@
 - 💼 **Lead Mobile App Developer & Technical Project Manager** — deep expertise in **Flutter & cross-platform architecture**, with a **mobile-first approach** to every product decision
 - 🤖 Building **on-device AI experiences in Flutter** — integrated **Gemma** for local inference and **Supertonic** for voice, wired into a **Generative UI (Gen UI) flow**
 - 📱 Built a **fully local LLM-powered Flutter app** — no cloud dependency for inference, focused on privacy, latency, and offline-first UX
-- 👥 Leading and managing **cross-functional teams of 10+ engineers**, with full ownership of project delivery
-- 📋 Practicing **Agile/Scrum** — sprint planning, backlog grooming, standups, retrospectives, and stakeholder reporting
+- 👥 Leading and managing **cross-functional teams of 10+ engineers**, with full Ownership and Accountability of project delivery
+- 📋 Practicing **Agile/Scrum** — sprint planning, backlog grooming, standups, retrospectives, EOD Log and stakeholder reporting
 - ☁️ Hands-on with **AWS cloud infrastructure** and end-to-end **data hub account creation & provisioning flows**
 - 📲 Expert in **Android & iOS developer/publisher account setup**, app store compliance, and release management
 - 🌍 Building products for **Nepali and global markets**, currently scaling engineering at **AppOverride**
