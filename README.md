@@ -52,12 +52,14 @@
 | 🔌 Integration | API design & integration, performance optimization |
 | 🗄️ Data | SQLite, SQL |
 | 🧪 Quality | Debugging, testing, production readiness |
+---
 
 ### 💻 Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,sqlite,react,nextjs,aws,git,github" />
 </p>
+---
 
 ### 🤖 On-Device AI & Gen UI
 
