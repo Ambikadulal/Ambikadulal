@@ -38,8 +38,6 @@
 - 🌱 Expanding into **Next.js, React**, and modern full-stack patterns
 - 📈 Mentoring developers through **Flutter Kathmandu**
 
----
-
 ### 🧠 Core Expertise
 
 | Area | Skills |
@@ -60,8 +58,6 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,sqlite,react,nextjs,aws,git,github" />
 </p>
-
----
 
 ### 🤖 On-Device AI & Gen UI
 
