@@ -89,6 +89,8 @@
 - 📚 **Medium:** [@ambikadulal16](https://medium.com/@ambikadulal16)
 - 🎓 **Master Flutter (Course):** [masterflutter.appwriters.dev](https://masterflutter.appwriters.dev/)
 
+---
+
 ### 🌍 Community & Leadership
 
 - 🎤 Organizer / Leader — **[Flutter Kathmandu](https://www.meetup.com/flutter-kathmandu/members/?op=leader)**
@@ -104,6 +106,7 @@
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME" />
 </p>
 
+---
 
 ### 💬 Let's Connect
 
