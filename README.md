@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ambika Dulal</h1>
-<h3 align="center">Lead Mobile Engineer • Technical Project Manager • Flutter Specialist • On-Device AI • Nepal 🇳🇵</h3>
+<h3 align="center">Technical Project Manager • Lead Mobile Engineer  • Flutter Specialist • On-Device AI • Nepal 🇳🇵</h3>
 
 <p align="center">
   Leading cross-functional teams, building scalable mobile products, and shipping on-device AI experiences.
