@@ -42,7 +42,7 @@
 
 | Area | Skills |
 |---|---|
-| 📱 Mobile Development | Flutter, Dart, mobile-first cross-platform architecture |
+| 📱 Mobile Development | Flutter, Dart, mobile-first cross-platform architecture | consultation services for technology selection
 | 🤖 On-Device AI | Gemma (local inference), Supertonic (voice), Generative UI (Gen UI) flows, local LLM Flutter apps |
 | 🧑‍🤝‍🧑 Project & Team Management | Agile, Scrum, sprint planning, 10+ member team leadership, full project ownership |
 | ☁️ Cloud & Infrastructure | AWS account setup & management, data hub account creation/provisioning flows |
