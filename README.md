@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ambika Dulal</h1>
+<h1 align="center">Hi Namaskar 👋, I'm Ambika Dulal </h1>
 <h3 align="center">Technical Project Manager • Lead Mobile Engineer  • Flutter Specialist • On-Device AI • Nepal 🇳🇵</h3>
 
 <p align="center">
